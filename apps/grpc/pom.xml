@@ -51,7 +51,7 @@
 
         <dependency>
             <groupId>io.quarkus</groupId>
-            <artifactId>quarkus-grpc</artifactId>
+            <artifactId>quarkus-grpc-inprocess</artifactId>
         </dependency>
 
         <dependency>
