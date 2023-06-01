@@ -17,6 +17,7 @@
         <module>backend</module>
         <module>funqy</module>
         <module>hlambda</module>
+        <module>grpc</module>
   </modules>
 
     <properties>

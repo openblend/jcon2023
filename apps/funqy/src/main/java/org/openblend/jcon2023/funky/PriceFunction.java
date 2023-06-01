@@ -1,4 +1,4 @@
-package org.openblend.jcon23.funky;
+package org.openblend.jcon2023.funky;
 
 import io.quarkus.funqy.Funq;
 import org.slf4j.Logger;

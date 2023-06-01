@@ -1,4 +1,4 @@
-package org.openblend.jcon23.funky;
+package org.openblend.jcon2023.funky;
 
 /**
  * @author Ales Justin
